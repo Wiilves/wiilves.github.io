@@ -7,25 +7,24 @@
 
 # Site settings
 title: Wiilves
-email: your-email@domain.com
+email: nikke@wiilves.se
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://wiilves.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
-#instagram_username: beyonce
+github_username:  Wiilves
+facebook_username: wiilves
+instagram_username: wiilves
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
 #skype_username: echo123
-#linkedin_url: https://
+linkedin_url: https://www.linkedin.com/company/15163917
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
+address_street: Bullsta
+address_city: Stockholm
 address_state: CA
 address_zip: 90201
 
