@@ -1,13 +1,31 @@
 ---
 layout: post
-title:  "Game"
+title:  "SEO, Sökmotorsoptimering"
 date:   2016-02-03 15:08:10 -0500
 img: assets/img/portfolio/game.png
 modalID: modalGame
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+SEO (Search Engine Optimisation)
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+Vi skapar hemsidor som i sitt grundutförande klarar de krav som ställs av en modern hemsida. Vi arbetar även med utökad SEO för att ditt företag kan få ett övertag på Google.
+
+För att din hemsida ska få ett övertag på bl.a. Google och Bing så krävs det en del arbete.
+
+Är din hemsida responsiv (Skalbar från mobiltelefonen till paddan och datorn) och har du rätt storlek på texter och rätt mellanrum mellan länkar?
+Detta är viktigt för att din hemsida ska vara användbar i dagens mobilsamhälle. Sen hamnar man högre upp på google dessutom.
+
+hur skapar man sökordsoptimerade texter ?
+Många tror att rätt "meta keywords" är nyckeln, men det är innehållet som är viktigast.
+Om du använder "meta keywords" och "meta descriptions" så måste innehållet spegla det och gärna högt upp i html-hirarkin.
+
+
+Lär dig analysera och förstå företagens absolut viktigaste mätpunkter och insikter för ett effektivt digitalt affärsmannaskap
+
+Då fler och fler företag blir ”data-drivna”, med andra ord tar sina affärsbeslut utifrån analys och statistik om hur den potentielle kunden beter sig, krävs det att man samlar in och bearbeta data i webbanalysverktyg som kan ta ut de mätvärden och indikatorer som driver försäljning och konvertering
+
+Den ena handlar om förståelse för mätdata, trafik, försäljningar, annonsering, interaktion, beteenden, med mera.
+Den andra delen är teknik- och verktygsorienterad, vilka mätverktyg och program används i branschen för att mäta och förstå hur besökaren beter sig och hur man tekniskt påverkar och styr programmen för att få ut rätt data med rätt konfiguration.
+
+Vi har gedigna kunskaper i viktiga branschverktyg som t.ex. Google Analytics

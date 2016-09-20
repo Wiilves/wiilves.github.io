@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Cabin"
+title:  "Grafisk design"
 date:   2016-02-06 15:08:10 -0500
 img: assets/img/portfolio/cabin.png
 modalID: modalCabin
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+Vårt jobb är att spegla din [verksamhet][flat-icons-link] med hjälp av design som speglar ditt formspråk och verksamhet.
+
+Idag är det ett måste för en designer att formge med det digitala som huvudplattform och över flera digitala kanaler, då detta oftast är företagens huvudkanal för kommunikation idag.
+
+Företagens behov av relevant och kvalitativt innehåll (content) för digitala plattformar och kanaler kräver en digital designer med förståelse för responsiv webb, appar för tablet och smartphone, digitala stortavlor, digitala wearables, plattskärmar, med mera.
 
 [flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+
+

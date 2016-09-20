@@ -1,13 +1,30 @@
 ---
 layout: post
-title:  "Cake"
+title:  "UX, Gränssnittsdesign"
 date:   2016-02-05 15:08:10 -0500
 img: assets/img/portfolio/cake.png
 modalID: modalCake
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+Hur designar man gränssnitt för klumpiga fingrar med begränsad skärmyta?
+Hur designar man gränssnitt som är så intuitiva att de knappt märks?
+Hur kommunicerar man med hjälp av ikoner när man bara har en handfull pixlar tillgodo?
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+Vi tycker att UX (User experience design) är mycket viktigt.
+En snygg hemsida som inte är anpassat för att vara användarvänlig är inte så mycket att ha.
+
+Informationen ska presenteras på rätt sätt vid rätt tidpunkt.
+
+UX står för User eXperience och handlar om upplevelsen av att använda en produkt eller ett system.
+Det kan gälla appar för mobiltelefoner, datorer och paddor, men också t ex instrumentpanelen i en bil.
+
+Att UX-design är viktigt både för företagen och deras kunder råder det ingen tvekan om.
+Det är också en av de mest effektiva faktorerna i konkurrensen med andra företag,
+ett välfungerande och användbart gränssnitt är ofta helt avgörande om en konsument väljer att klicka på ”köp”.
+
+Anpassa design och form efter målgrupp och kanal med fokus på användaren och beteendet.
+
+Designa innehåll som engagerar användaren och med förståelse för användarupplevelse och interaktionen.
+
+En UX-designer fungerar lite som en informationsarkitekt, men också psykolog –genom undersökningar och strukturerade metoder klura ut så mycket som möjligt om kunden och användaren: om behov och önskemål, och hur användaren fungerar i interaktion med produkten eller systemet.

@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Safe"
+title:  "Open Source och öppna system"
 date:   2016-02-02 15:08:10 -0500
 img: assets/img/portfolio/safe.png
 modalID: modalSafe
 category: Design
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+Dagens Internet-miljö är tekniskt krävande och ställer därför krav på hur du konstruerar din webbplats.
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+Allt vi bygger är baserat på välkända och vedertagna standarder, vilket innebär att vem som helst med grundläggande kunskaper, kan ta över arbetet och vidareutveckla det vi levererar.
+
+Vi förespråkar att bygga webb med open-source-verktyg för att din webbplats enklare ska kunna få tillgång till uppdateringar och utvecklingar som görs av utvecklare från hela världen, hela tiden.
+
+Ramverk som vi gärna använder är React, Angular och Ember, samtliga är ramverk för JavaScript.
