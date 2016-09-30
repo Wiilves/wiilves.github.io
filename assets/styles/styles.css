@@ -51,26 +51,28 @@ hr.star-primary:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: white;
+  border-color: #8CC63F;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
-  color: white;
+  background-color: #006837;
+  color: #8CC63F;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #006837;
 }
 hr.star-primary:after {
-  background-color: white;
-  color: #2C3E50;
+  background-color: #8CC63F;
+  color: #006837;
 }
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
-  background: #18BC9C;
-  color: white;
+  background: linear-gradient(to top,#8CC63F,#006837);
+  color: #006837;
+
+
 }
 header .container {
   padding-top: 100px;
@@ -89,23 +91,24 @@ header .intro-text .name {
   color: black;
 }
 header .intro-text .skills {
-  font-size: 1.25em;
+  font-size: 2.5em;
   font-weight: 300;
+   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 768px) {
   header .container {
-    padding-top: 200px;
+    padding-top: 150px;
     padding-bottom: 100px;
   }
   header .intro-text .name {
     font-size: 4.75em;
   }
   header .intro-text .skills {
-    font-size: 1.75em;
+    font-size: 2.0em;
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #006837;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -115,37 +118,37 @@ header .intro-text .skills {
   outline: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: #8CC63F;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: white;
+  color: #8CC63F;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: #8CC63F;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #8CC63F;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: #8CC63F;
 }
 .navbar-custom .navbar-nav li.active a {
-  color: white;
-  background: #18BC9C;
+  color: #006837;
+  background: #8CC63F;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  color: white;
-  background: #18BC9C;
+  color: #006837;
+  background: #8CC63F;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -155,9 +158,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #8CC63F;
   color: white;
-  border-color: #18BC9C;
+  border-color: #8CC63F;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -187,8 +190,8 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
-  color: white;
+  background: #8CC63F;
+  color: #006837;
 }
 @media (max-width: 767px) {
   section {
@@ -209,7 +212,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: rgba(24, 188, 156, 0.9);
+  background: rgba(140, 198, 63, 0.9);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -303,19 +306,21 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color: #8CC63F;
+  color: #006837;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #006837;
+  color: #8CC63F;
 }
 .btn-outline {
-  color: white;
+  color: #006837;
   font-size: 20px;
-  border: solid 2px white;
+  border: solid 2px #006837;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -324,9 +329,9 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
-  background: white;
-  border: solid 2px white;
+  color: #8CC63F;
+  background: #006837;
+  border: solid 2px #8CC63F;
 }
 .btn-primary {
   color: white;
@@ -416,7 +421,7 @@ fieldset[disabled] .btn-success.active {
   display: inline-block;
   height: 50px;
   width: 50px;
-  border: 2px solid white;
+  border: 2px solid #006837;
   border-radius: 100%;
   text-align: center;
   font-size: 20px;
@@ -454,6 +459,8 @@ fieldset[disabled] .btn-success.active {
   min-height: 100%;
   padding: 100px 0;
   text-align: center;
+  background-color: #006837;
+  color: #8CC63F;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
@@ -481,7 +488,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2C3E50;
+  background-color: #8CC63F;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -492,7 +499,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: #8CC63F;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -503,4 +510,21 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+
+.logo {
+  margin-top: -25px;
+}
+
+.whatwedo {
+  background: #006837;
+  color: #8CC63F;
+}
+
+.team .team-player .title {
+  margin: 30px auto;
+}
+.team .team-player img {
+  max-width: 170px;
 }
